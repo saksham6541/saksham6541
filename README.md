@@ -55,17 +55,35 @@ Not for interviews (well, partly), but to understand efficiency at scale. You ca
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, C/C++, JavaScript, TypeScript, Rust
+### **Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,rust" />
+</div>
 
-**Frontend:** React, HTML/CSS, Tailwind CSS
+### **Frontend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</div>
 
-**Backend:** Node.js, Express
+### **Backend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</div>
 
-**Databases:** MongoDB, SQL basics
+### **Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
+</div>
 
-**Tools:** Git, Linux, VSCode, Postman
+### **Tools & DevOps**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</div>
 
-**Exploring:** System Design, Cloud fundamentals
+### **Exploring**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</div>
 
 ---
 
@@ -82,10 +100,54 @@ I'm not trying to be great at everything. I'm trying to be **focused on what mat
 
 ---
 
+## 📊 GitHub Analytics & Activity
+
+### 🔥 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham6541&bg_color=0d1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="95%"/>
+</div>
+
+### 📈 Stats & Streaks
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham6541&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saksham6541&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00D4FF" />
+</div>
+
+### 💻 Most Used Languages
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham6541&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham6541&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff" />
+</div>
+
+### 🏆 GitHub Achievements & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saksham6541&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="90%"/>
+</div>
+
+### 📊 Detailed GitHub Stats
+<div align="center">
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=saksham6541&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00D4FF&include_all_commits=true&count_private=true" />
+</div>
+
+### 🎯 Featured Repositories
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=nagriksetu&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=PDSA&theme=radical&hide_border=true&bg_color=0d1117" />
+</div>
+
+### 📌 Profile Metrics
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saksham6541&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/saksham6541?label=Followers&style=for-the-badge&color=00D4FF" />
+  <img src="https://img.shields.io/github/stars/saksham6541?label=Total%20Stars&style=for-the-badge&color=00D4FF" />
+</div>
+
+---
+
 ## 🔗 Let's Connect
 
 - **GitHub:** You're here! 
-- **LinkedIn:** [/in/saksham-mishra-77177j](https://www.linkedin.com/in/saksham-mishra-77177j/)
+- **LinkedIn:** [/in/saksham-kaushik-942706369](https://www.linkedin.com/in/saksham-kaushik-942706369/)
 - **Email:** kaushik.saksham@gmail.com
 - **LeetCode:** [/u/skaushik_0987/](https://leetcode.com/u/skaushik_0987/)
 
