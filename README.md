@@ -18,7 +18,7 @@ I'm fascinated by the intersection of **technology and civic engagement**. Rathe
 
 - **Building solutions that matter** — Apps that solve real problems in Indian cities
 - **Understanding systems deeply** — DSA isn't just interview prep; it's how I think about scale
-- **Learning in public** — Sharing my journey from CBSE student to full-stack builder
+- **Learning in public** — Sharing my journey from ICSE student to full-stack builder
 
 My philosophy: **Ship > Perfect**. Every bug fixed teaches more than a perfect codebase never written.
 
@@ -57,6 +57,19 @@ Understanding how large-scale platforms handle uploads. Auth complete, chunking 
 - Resumable uploads with chunk verification
 
 <div align="center">
+
+[Distributed File Upload Repository →](https://github.com/saksham6541/distributed-file-upload)
+
+### **cjson-rs** 🦀
+*Rust port of cJSON*
+
+</div>
+
+A Rust reimplementation of the classic cJSON C library, built for a Port Mortem 2026 submission.
+
+<div align="center">
+
+[cjson-rs Repository →](https://github.com/saksham6541/cjson-rs)
 
 ### **DSA Practice** 💪
 *Practicing data structures & algorithms systematically*
@@ -119,6 +132,8 @@ Not just for interviews — it's how I understand efficiency at scale. You can't
 
 ### Featured Repositories
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=nagriksetu&theme=radical&hide_border=true&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=distributed-file-upload&theme=radical&hide_border=true&bg_color=0d1117" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=cjson-rs&theme=radical&hide_border=true&bg_color=0d1117" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=PDSA&theme=radical&hide_border=true&bg_color=0d1117" />
 
 ### Contribution Snake
@@ -154,21 +169,9 @@ Not just for interviews — it's how I understand efficiency at scale. You can't
 
 <div align="center">
 
-## 📈 Where My Time Goes
-
-| Civic Tech | Full-Stack Dev | DSA Practice | DevOps/Cloud |
-|:---:|:---:|:---:|:---:|
-| 40% | 30% | 20% | 10% |
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎓 Background
 
-<img src="https://img.shields.io/badge/CBSE%20Class%20XII-Current-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ICSE%20Class%20XII-Current-00D4FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Self%20Taught-Full%20Stack-FF6B6B?style=for-the-badge" />
 
 </div>
