@@ -4,7 +4,9 @@
 
 ### Computer Science Student • Full-Stack Developer • DSA Enthusiast • Builder
 
-**Building practical software, learning systems deeply, and shipping things that solve real problems.**
+**Building practical software, understanding systems deeply, and shipping things that solve real problems.**
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-saksham6541-181717?style=for-the-badge\&logo=github)](https://github.com/saksham6541)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saksham%20Kaushik-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saksham-kaushik-942706369/)
@@ -20,24 +22,23 @@
 
 </div>
 
-I'm a Computer Science student interested in **software engineering, algorithms, backend systems, and civic technology**.
+I'm a Computer Science student interested in **software engineering, algorithms, backend systems, distributed systems, and civic technology**.
 
 I'm currently pursuing a **B.Tech in Computer Science & Engineering from GL Bajaj Institute of Technology and Management** while also pursuing the **BS in Data Science and Applications from IIT Madras**.
 
-I enjoy moving between two sides of computer science:
+I like working across the stack — from solving algorithmic problems and designing APIs to building complete applications and experimenting with systems-level programming.
 
-* 🧠 **Algorithms & problem solving** — understanding how and why solutions work
-* 🏗️ **Software engineering** — turning those ideas into systems people can actually use
-* 🌐 **Full-stack development** — building complete applications rather than isolated features
-* ⚙️ **Backend & system design** — learning how scalable systems handle data, uploads, authentication and distributed workloads
-* 🏙️ **Civic technology** — using software to address practical community problems
-* 🦀 **Systems programming** — exploring Rust and low-level software concepts
+### What I care about
 
-My philosophy:
+* 🧠 **Problem solving** — understanding algorithms instead of memorizing solutions
+* 🏗️ **Software engineering** — building systems that are actually usable
+* 🌐 **Full-stack development** — understanding the complete request-to-database lifecycle
+* ⚙️ **Backend engineering** — APIs, authentication, databases, uploads and scalability
+* 🧩 **System design** — learning how individual components become reliable systems
+* 🦀 **Systems programming** — exploring Rust and lower-level concepts
+* 🏙️ **Civic technology** — building software around real community problems
 
 > **Ship → Break → Understand → Improve**
-
-I don't believe a project has to be perfect before it is worth building. Every bug, failed deployment and architectural mistake is part of the learning process.
 
 ---
 
@@ -47,74 +48,90 @@ I don't believe a project has to be perfect before it is worth building. Every b
 
 </div>
 
-### 🎓 GL Bajaj Institute of Technology & Management
+### GL Bajaj Institute of Technology & Management
 
 **B.Tech — Computer Science & Engineering**
 
 Currently pursuing my undergraduate degree in Computer Science and Engineering.
 
----
+### IIT Madras
 
-### 🎓 IIT Madras — BS in Data Science and Applications
+**BS — Data Science and Applications**
 
-**BS Degree in Data Science and Applications**
-
-I'm also pursuing IIT Madras' BS program, with a strong interest in:
+Alongside my B.Tech, I'm pursuing IIT Madras' BS program with an emphasis on:
 
 * Data Structures & Algorithms
-* Programming and Data Structures
+* Programming & Data Structures
 * Database Management
 * Statistics & Probability
 * Data Science
 * Computational Thinking
 
-Having two parallel academic tracks has pushed me to become more disciplined about learning, time management and independent study.
+Managing two academic tracks has also pushed me toward independent learning, disciplined problem solving and better time management.
 
 ---
 
 <div align="center">
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
 </div>
 
-### 🏙️ NagrikSetu
+## 🏙️ NagrikSetu
 
-**AI-powered hyperlocal civic issue resolution platform**
+### AI-powered hyperlocal civic issue resolution platform
 
-NagrikSetu started from a simple question:
+NagrikSetu started with a simple question:
 
 > **What if reporting a civic problem didn't end with submitting a complaint?**
 
-The platform connects **citizens, municipal officers and field workers** to take an issue from reporting → verification → assignment → resolution → citizen verification.
+NagrikSetu connects **citizens, municipal officers and field workers** to take an issue through the complete lifecycle:
 
-#### Key Features
+```text
+Report
+  ↓
+AI Classification
+  ↓
+Severity Assessment
+  ↓
+Officer Assignment
+  ↓
+Field Worker
+  ↓
+Proof of Work
+  ↓
+Citizen Verification
+  ↓
+Resolved
+```
 
-* 📸 Image/video-based civic issue reporting
-* 🤖 AI-powered issue categorization
+### Key Features
+
+* 📸 Image/video-based issue reporting
+* 🤖 AI-powered categorization
 * 🚦 Severity classification
-* 📍 GPS/location-based verification
+* 📍 GPS/location verification
 * 👥 Community verification
 * 👷 Field-worker assignment
-* 📷 Proof-of-work evidence
-* 🔎 Citizen verification after resolution
+* 📷 Completion evidence
+* 🔎 Citizen verification
 * 📊 Officer dashboards
 * 🔔 Real-time status updates
-* 🏅 Verification and audit metadata
+* 🏅 Audit and verification metadata
 
-**Tech:** TypeScript, React, Node.js, Express, AI integration, Google Cloud
+**Tech:** TypeScript • React • Node.js • Express • AI Integration • Google Cloud
 
 [![NagrikSetu](https://img.shields.io/badge/View%20Repository-NagrikSetu-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/nagriksetu)
 
 ---
 
-### 📤 Distributed File Upload System
+## 📤 Distributed File Upload System
 
-**A scalable chunked and resumable file-upload backend**
+### Learning how large file uploads actually work
 
-I'm building this project to understand what actually happens behind large file uploads instead of treating file uploads as a single API request.
+A backend project focused on understanding **chunked, resumable and scalable uploads** instead of treating a large file as one giant HTTP request.
 
-#### Currently Exploring
+### Exploring
 
 * 🔐 Authentication
 * 🧩 Chunked uploads
@@ -122,21 +139,22 @@ I'm building this project to understand what actually happens behind large file 
 * ✅ Chunk verification
 * 🗄️ Metadata management
 * 🌐 Distributed upload architecture
-* 📈 Scalability and fault tolerance
+* 📈 Scalability
+* 🛡️ Failure recovery
 
-**Tech:** TypeScript, Express, React, Vite, MongoDB
+**Tech:** TypeScript • Express • React • Vite • MongoDB
 
 [![Distributed File Upload](https://img.shields.io/badge/View%20Repository-Distributed%20File%20Upload-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/distributed-file-upload)
 
 ---
 
-### 🦀 cjson-rs
+## 🦀 cjson-rs
 
-**A Rust port of cJSON**
+### A Rust port of cJSON
 
 A Rust reimplementation of the classic cJSON C library.
 
-This project is helping me understand:
+The project is helping me explore:
 
 * Rust ownership and borrowing
 * Memory safety
@@ -152,34 +170,39 @@ Built as part of my **Port Mortem 2026** work.
 
 ---
 
-### 🧠 DSA Practice
+## 🧠 DSA Practice
 
-I actively practice **Data Structures & Algorithms** through LeetCode and structured problem solving.
+### 200+ LeetCode Problems Solved
 
-Currently:
+I practice DSA systematically rather than simply trying to increase the solved count.
 
-**200+ LeetCode problems solved**
+My focus is on recognizing patterns and understanding **time and space complexity**.
 
-My practice covers:
+```text
+Arrays & Strings
+       ↓
+Hashing
+       ↓
+Two Pointers / Sliding Window
+       ↓
+Binary Search
+       ↓
+Linked Lists
+       ↓
+Stacks / Queues
+       ↓
+Trees
+       ↓
+Graphs
+       ↓
+Greedy
+       ↓
+Dynamic Programming
+```
 
-* Arrays & Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Dynamic Programming
-* Greedy Algorithms
-* Sorting
-* Prefix/Suffix techniques
-* Graph fundamentals
-* Recursion & Backtracking
-
-For me, DSA isn't only interview preparation.
-
-> **You can't optimize what you don't understand.**
+> **The goal isn't just solving more problems.**
+>
+> **The goal is recognizing the right problem-solving pattern faster.**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
 
@@ -187,15 +210,61 @@ For me, DSA isn't only interview preparation.
 
 <div align="center">
 
-## 🛠️ Technical Skills
+# 🧭 My Engineering Journey
+
+</div>
+
+```text
+                         ┌──────────────────┐
+                         │  Programming     │
+                         │ Java • C • C++   │
+                         │ Python           │
+                         └────────┬─────────┘
+                                  │
+                 ┌────────────────┴────────────────┐
+                 │                                 │
+                 ▼                                 ▼
+        ┌─────────────────┐              ┌─────────────────┐
+        │      DSA        │              │   Development   │
+        │  200+ Problems  │              │ React / Node.js │
+        └────────┬────────┘              └────────┬────────┘
+                 │                                 │
+                 ▼                                 ▼
+        ┌─────────────────┐              ┌─────────────────┐
+        │ Problem Solving │              │ Backend Systems │
+        │ Complexity      │              │ APIs / Auth     │
+        │ Patterns        │              │ Databases       │
+        └────────┬────────┘              └────────┬────────┘
+                 │                                 │
+                 └────────────────┬────────────────┘
+                                  ▼
+                         ┌──────────────────┐
+                         │   System Design  │
+                         │ Scalability      │
+                         │ Reliability      │
+                         │ Distributed Sys. │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ Production-Grade │
+                         │    Systems       │
+                         └──────────────────┘
+```
+
+---
+
+<div align="center">
+
+# 🛠️ Technical Stack
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,rust" />
 
 **Primary:** Java
-**Also comfortable with:** Python, C, C++, JavaScript, TypeScript
-**Currently exploring:** Rust
+**Comfortable:** Python • C • C++ • JavaScript • TypeScript
+**Exploring:** Rust
 
 ### Frontend
 
@@ -213,9 +282,9 @@ For me, DSA isn't only interview preparation.
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 
-### Cloud & Infrastructure
+### Cloud
 
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker" />
+<img src="https://skillicons.dev/icons?i=gcp,aws" />
 
 </div>
 
@@ -223,42 +292,43 @@ For me, DSA isn't only interview preparation.
 
 <div align="center">
 
-## 🧩 Areas I'm Currently Exploring
+# ⚙️ Engineering Focus
 
 </div>
 
-| Area                          | Focus                                            |
-| ----------------------------- | ------------------------------------------------ |
-| 🧠 **DSA**                    | Problem solving, algorithms, complexity analysis |
-| 🏗️ **Backend Engineering**   | APIs, authentication, databases, file systems    |
-| 🌐 **Full-Stack Development** | React + TypeScript + Node.js                     |
-| ⚙️ **System Design**          | Scalability, distributed systems, reliability    |
-| 🗄️ **Databases**             | PostgreSQL, MongoDB, SQL fundamentals            |
-| 🐳 **DevOps**                 | Docker, deployment, Linux                        |
-| ☁️ **Cloud**                  | Google Cloud, AWS fundamentals                   |
-| 🦀 **Rust**                   | Systems programming and memory-safe software     |
-| 🤖 **AI Integration**         | Practical AI features inside applications        |
-| 🏙️ **Civic Tech**            | Technology for real-world community problems     |
+| Area                       | Current Focus                                      |
+| -------------------------- | -------------------------------------------------- |
+| 🧠 **Algorithms**          | DSA, complexity analysis, problem-solving patterns |
+| 🌐 **Frontend**            | React, TypeScript, responsive interfaces           |
+| ⚙️ **Backend**             | Node.js, Express, REST APIs, authentication        |
+| 🗄️ **Databases**          | PostgreSQL, MongoDB, SQL                           |
+| 📤 **Distributed Uploads** | Chunking, resumability, verification               |
+| 🏗️ **System Design**      | Scalability, reliability, distributed architecture |
+| 🐳 **DevOps**              | Docker, Linux, deployment                          |
+| ☁️ **Cloud**               | Google Cloud, AWS fundamentals                     |
+| 🦀 **Systems**             | Rust, memory safety, low-level programming         |
+| 🤖 **AI**                  | Practical AI integration into applications         |
+| 🏙️ **Civic Tech**         | Technology for community infrastructure            |
 
 ---
 
 <div align="center">
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 ### Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham6541&bg_color=0d1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="95%"/>
 
-### GitHub Stats
+### GitHub Overview
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saksham6541&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00D4FF&include_all_commits=true&count_private=true" />
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham6541&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff" />
 
-### GitHub Streak
+### Contribution Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham6541&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham6541&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="70%"/>
 
 ### GitHub Trophies
 
@@ -270,7 +340,7 @@ For me, DSA isn't only interview preparation.
 
 <div align="center">
 
-## ⭐ Featured Projects
+# ⭐ Featured Repositories
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=nagriksetu&theme=radical&hide_border=true&bg_color=0d1117" />
 
@@ -286,59 +356,11 @@ For me, DSA isn't only interview preparation.
 
 <div align="center">
 
-## 🏆 Current Focus
-
-<img src="https://img.shields.io/badge/DSA-200%2B%20Solved-00D4FF?style=flat-square&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-Building-00D4FF?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-Engineering-FF6B6B?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/System%20Design-Learning-FFD93D?style=flat-square" />
-<img src="https://img.shields.io/badge/Civic%20Tech-Building-FF6B6B?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-Exploring-orange?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Comfortable-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Comfortable-FCC624?style=flat-square&logo=linux&logoColor=black" />
+# 📚 Learning Roadmap
 
 </div>
 
----
-
-<div align="center">
-
-## 🧪 How I Learn
-
-</div>
-
-I prefer **building while learning** rather than learning everything theoretically first.
-
-My typical learning loop:
-
-```text
-Learn the concept
-       ↓
-Build something with it
-       ↓
-Break it
-       ↓
-Debug it
-       ↓
-Understand why it broke
-       ↓
-Improve the design
-       ↓
-Build something harder
-```
-
-This approach has taken me from basic programming to building full-stack applications, working with databases and APIs, experimenting with cloud deployment, solving DSA problems and exploring systems programming.
-
----
-
-<div align="center">
-
-## 📚 Current Learning Roadmap
-
-</div>
-
-### Fundamentals
+### ✅ Fundamentals
 
 * [x] Java
 * [x] Python
@@ -348,18 +370,19 @@ This approach has taken me from basic programming to building full-stack applica
 * [x] Full-stack fundamentals
 * [x] Core DSA
 
-### Engineering Depth
+### 🔨 Engineering
 
 * [x] REST APIs
 * [x] Authentication
 * [x] SQL fundamentals
 * [x] MongoDB
+* [x] Full-stack applications
 * [ ] Advanced PostgreSQL
 * [ ] Docker
 * [ ] CI/CD
 * [ ] Advanced backend architecture
 
-### Systems
+### 🏗️ Systems
 
 * [ ] System Design
 * [ ] Distributed Systems
@@ -369,7 +392,7 @@ This approach has taken me from basic programming to building full-stack applica
 * [ ] Fault Tolerance
 * [ ] Distributed Storage
 
-### Advanced Development
+### 🚀 Next Level
 
 * [ ] Deeper Rust
 * [ ] Cloud architecture
@@ -380,67 +403,85 @@ This approach has taken me from basic programming to building full-stack applica
 
 <div align="center">
 
-## 📊 Problem Solving
-
-### LeetCode
-
-**200+ Problems Solved**
-
-I'm systematically working through DSA rather than randomly collecting solved problems.
-
-Current emphasis:
-
-```text
-Arrays
-  ↓
-Hashing
-  ↓
-Two Pointers / Sliding Window
-  ↓
-Binary Search
-  ↓
-Linked Lists
-  ↓
-Stacks / Queues
-  ↓
-Trees
-  ↓
-Graphs
-  ↓
-Greedy
-  ↓
-Dynamic Programming
-```
-
-The goal isn't simply to increase the solved count.
-
-**The goal is to recognize patterns faster and reason about complexity better.**
+# 🧪 How I Learn
 
 </div>
+
+I prefer **building while learning** instead of waiting until I know everything.
+
+```text
+        Learn
+          │
+          ▼
+        Build
+          │
+          ▼
+        Break
+          │
+          ▼
+        Debug
+          │
+          ▼
+      Understand
+          │
+          ▼
+        Improve
+          │
+          ▼
+      Build Again
+```
+
+This approach has taken me from basic programming to:
+
+**DSA → Full Stack → Backend → Databases → Cloud → System Design → Systems Programming**
 
 ---
 
 <div align="center">
 
-## 🌱 Beyond Code
+# 🏙️ Why Civic Tech?
 
 </div>
 
-I'm particularly interested in the idea that **software should solve problems outside the developer ecosystem**.
+I'm particularly interested in software that solves problems **outside the developer ecosystem**.
 
 That's why NagrikSetu matters to me.
 
-Potholes, broken streetlights, water problems and unresolved municipal complaints aren't technically glamorous problems — but they affect millions of people.
+Potholes, broken streetlights, water problems and unresolved municipal complaints aren't technically glamorous problems — but they affect real people every day.
 
 I want to explore more projects where:
 
-**Technology → Infrastructure → People → Measurable Impact**
+```text
+Technology
+     ↓
+Infrastructure
+     ↓
+People
+     ↓
+Measurable Impact
+```
 
 ---
 
 <div align="center">
 
-## 🔗 Let's Connect
+# 💡 My Philosophy
+
+</div>
+
+> **Don't optimize what you don't understand.**
+
+> **Build things that force you to learn.**
+
+> **A failed deployment is still a lesson.**
+
+> **Perfect code that never ships is less useful than imperfect code that teaches you something.**
+
+---
+
+<div align="center">
+
+# 🔗 Let's Connect
 
 **GitHub:** [github.com/saksham6541](https://github.com/saksham6541)
 
@@ -458,8 +499,6 @@ I want to explore more projects where:
 
 ## 💭 A Note
 
-</div>
-
 > *"The best time to start was yesterday. The second best time is now."*
 
 I'm still learning.
@@ -476,13 +515,9 @@ Every failed deployment taught me something.
 
 Every solved DSA problem made one more pattern familiar.
 
-And every new project gives me another reason to go deeper.
-
 **I'm not trying to look like I know everything. I'm trying to become someone who can figure things out.**
 
----
-
-<div align="center">
+<br>
 
 ### 🌱 Building. Breaking. Learning. Shipping.
 
