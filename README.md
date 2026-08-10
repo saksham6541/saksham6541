@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-saksham6541-181717?style=for-the-badge\&logo=github)](https://github.com/saksham6541)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saksham%20Kaushik-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saksham-kaushik-942706369/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-142%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
 
 </div>
 
@@ -31,7 +31,7 @@ I enjoy moving between two sides of computer science:
 * 🌐 **Full-stack development** — building complete applications rather than isolated features
 * ⚙️ **Backend & system design** — learning how scalable systems handle data, uploads, authentication and distributed workloads
 * 🏙️ **Civic technology** — using software to address practical community problems
-* 🦀 **Exploring systems programming** — currently experimenting with Rust
+* 🦀 **Systems programming** — exploring Rust and low-level software concepts
 
 My philosophy:
 
@@ -53,8 +53,6 @@ I don't believe a project has to be perfect before it is worth building. Every b
 
 Currently pursuing my undergraduate degree in Computer Science and Engineering.
 
-**Current CGPA:** 7.95
-
 ---
 
 ### 🎓 IIT Madras — BS in Data Science and Applications
@@ -68,9 +66,7 @@ I'm also pursuing IIT Madras' BS program, with a strong interest in:
 * Database Management
 * Statistics & Probability
 * Data Science
-* Computational thinking
-
-**Current CGPA:** 7.5
+* Computational Thinking
 
 Having two parallel academic tracks has pushed me to become more disciplined about learning, time management and independent study.
 
@@ -162,7 +158,7 @@ I actively practice **Data Structures & Algorithms** through LeetCode and struct
 
 Currently:
 
-**142+ LeetCode problems solved**
+**200+ LeetCode problems solved**
 
 My practice covers:
 
@@ -185,7 +181,7 @@ For me, DSA isn't only interview preparation.
 
 > **You can't optimize what you don't understand.**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
 
 ---
 
@@ -292,7 +288,7 @@ For me, DSA isn't only interview preparation.
 
 ## 🏆 Current Focus
 
-<img src="https://img.shields.io/badge/DSA-Active-00D4FF?style=flat-square&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-200%2B%20Solved-00D4FF?style=flat-square&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Full--Stack-Building-00D4FF?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend-Engineering-FF6B6B?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/System%20Design-Learning-FFD93D?style=flat-square" />
@@ -342,17 +338,17 @@ This approach has taken me from basic programming to building full-stack applica
 
 </div>
 
-### Phase 1 — Strong Fundamentals
+### Fundamentals
 
 * [x] Java
 * [x] Python
 * [x] C / C++
 * [x] Git & GitHub
 * [x] HTML / CSS / JavaScript
-* [x] Basic full-stack development
+* [x] Full-stack fundamentals
 * [x] Core DSA
 
-### Phase 2 — Engineering Depth
+### Engineering Depth
 
 * [x] REST APIs
 * [x] Authentication
@@ -363,7 +359,7 @@ This approach has taken me from basic programming to building full-stack applica
 * [ ] CI/CD
 * [ ] Advanced backend architecture
 
-### Phase 3 — Systems
+### Systems
 
 * [ ] System Design
 * [ ] Distributed Systems
@@ -373,7 +369,7 @@ This approach has taken me from basic programming to building full-stack applica
 * [ ] Fault Tolerance
 * [ ] Distributed Storage
 
-### Phase 4 — Advanced Development
+### Advanced Development
 
 * [ ] Deeper Rust
 * [ ] Cloud architecture
@@ -388,7 +384,7 @@ This approach has taken me from basic programming to building full-stack applica
 
 ### LeetCode
 
-**142+ Problems Solved**
+**200+ Problems Solved**
 
 I'm systematically working through DSA rather than randomly collecting solved problems.
 
