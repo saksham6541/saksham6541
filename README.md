@@ -86,8 +86,8 @@ I'm not trying to be great at everything. I'm trying to be **focused on what mat
 
 - **GitHub:** You're here! 
 - **LinkedIn:** [/in/saksham-mishra-77177j](https://www.linkedin.com/in/saksham-mishra-77177j/)
-- **Email:** msaksham771@gmail.com
-- **LeetCode:** [/u/sea-salt/](https://leetcode.com/u/sea-salt/)
+- **Email:** kaushik.saksham@gmail.com
+- **LeetCode:** [/u/skaushik_0987/](https://leetcode.com/u/skaushik_0987/)
 
 ---
 
