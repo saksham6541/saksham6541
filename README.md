@@ -489,7 +489,7 @@ Measurable Impact
 
 **LeetCode:** [leetcode.com/u/skaushik_0987](https://leetcode.com/u/skaushik_0987/)
 
-**Email:** [kaushik.saksham@gmail.com](mailto:kaushik.saksham@gmail.com)
+**Email:** [kaushiksaksham27@gmail.com](mailto:kaushik.saksham@gmail.com)
 
 </div>
 
