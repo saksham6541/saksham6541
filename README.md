@@ -226,7 +226,7 @@ Dynamic Programming
                  ▼                                 ▼
         ┌─────────────────┐              ┌─────────────────┐
         │      DSA        │              │   Development   │
-        │  200+ Problems  │              │ React / Node.js │
+        │  400+ Problems  │              │ React / Node.js │
         └────────┬────────┘              └────────┬────────┘
                  │                                 │
                  ▼                                 ▼
