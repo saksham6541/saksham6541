@@ -172,7 +172,7 @@ Built as part of my **Port Mortem 2026** work.
 
 ## 🧠 DSA Practice
 
-### 200+ LeetCode Problems Solved
+### 400+ LeetCode Problems Solved
 
 I practice DSA systematically rather than simply trying to increase the solved count.
 
