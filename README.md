@@ -60,7 +60,15 @@ A Flask-based planning tool: locate a property, draw the roof and obstructions o
 **Stack:** Python • Flask • Jinja2 • SQLAlchemy • Leaflet • pvlib • WeasyPrint • Docker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saksham6541/SIGNIX/main/app/static/images/signix-logo-full.png" width="40%" alt="SIGNIX" />
+  <img src="assets/signix-hero.png" width="90%" alt="SIGNIX: plan your rooftop solar potential" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saksham6541/SIGNIX/main/demo_video/mapping.png" width="48%" alt="Trace the roof on a satellite map" />
+  <img src="https://raw.githubusercontent.com/saksham6541/SIGNIX/main/demo_video/planner-reframed.png" width="48%" alt="3D rooftop designer" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saksham6541/SIGNIX/main/demo_video/finance.png" width="48%" alt="Financing options and payback" />
+  <img src="https://raw.githubusercontent.com/saksham6541/SIGNIX/main/demo_video/pdf-composition.png" width="48%" alt="Homeowner PDF report" />
 </p>
 
 [![Repo](https://img.shields.io/badge/View%20Repository-SIGNIX-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/SIGNIX)
