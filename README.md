@@ -1,281 +1,98 @@
 <div align="center">
 
-# Hey there 👋 I'm Saksham Kaushik
+# Hey, I'm Saksham Kaushik 👋
 
-### Computer Science Student • Full-Stack Developer • DSA Enthusiast • Builder
+**I build software for real-world problems: civic issue resolution and rooftop solar planning.**
 
-**Building practical software, understanding systems deeply, and shipping things that solve real problems.**
+B.Tech CSE @ GL Bajaj Institute of Technology & Management • BS Data Science @ IIT Madras
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-saksham6541-181717?style=for-the-badge\&logo=github)](https://github.com/saksham6541)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saksham%20Kaushik-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/saksham-kaushik-942706369/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
+[![Email](https://img.shields.io/badge/Email-kaushiksaksham27%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kaushiksaksham27@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-## 👨‍💻 About Me
+### 🏙️ [NagrikSetu](https://github.com/saksham6541/nagriksetu): civic issue resolution, end to end
 
-</div>
+> Bridging citizens and municipal authorities through transparent, AI-assisted issue resolution.
 
-I'm a Computer Science student interested in **software engineering, algorithms, backend systems, distributed systems, data, and civic technology**.
+Citizens report local problems (potholes, streetlights, garbage, water leaks) with location and photos, build consensus through upvotes, and track resolution in real time. Officers and field workers get role-based dashboards to triage, assign, verify and close the work.
 
-I'm pursuing a **B.Tech in Computer Science & Engineering at GL Bajaj Institute of Technology and Management** alongside the **BS in Data Science and Applications at IIT Madras**.
+* 🔐 **Role-based auth:** citizens (phone + OTP), officers and workers (email + password), JWT with `CITIZEN | OFFICER | WORKER | ADMIN` guards
+* 🤖 **AI-assisted triage:** classification and routing suggestions via Google Gemini, with a deterministic local fallback when no API key is set
+* 📍 **Geospatial duplicate hints:** bounding-box queries on indexed lat/lng
+* 🔄 **Validated workflow:** assignment state machine (accept → in-progress → completed) with before/after evidence uploads
+* 🧪 **Tested:** Vitest + Supertest covering auth, role checks, Zod validation, vote dedup and the AI fallback
+* 🏗️ **Clean backend:** Express services, Zod schemas, Pino logging, Prisma transactions, rate limiting
 
-I like working across the stack: solving algorithmic problems, designing APIs, building complete applications, and experimenting with systems-level programming.
+**Stack:** TypeScript • React 19 • Vite • Tailwind CSS 4 • Express • Prisma • SQLite (PostgreSQL-ready) • Zod • Gemini
 
-### What I care about
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saksham6541/nagriksetu/main/screenshots/dashboard.png" width="48%" alt="NagrikSetu dashboard" />
+  <img src="https://raw.githubusercontent.com/saksham6541/nagriksetu/main/screenshots/report-issue.png" width="48%" alt="Report an issue" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saksham6541/nagriksetu/main/screenshots/officer-dashboard.png" width="48%" alt="Officer dashboard" />
+  <img src="https://raw.githubusercontent.com/saksham6541/nagriksetu/main/screenshots/worker-dashboard.png" width="48%" alt="Worker dashboard" />
+</p>
 
-* 🧠 **Problem solving**: understanding algorithms instead of memorizing solutions
-* 🏗️ **Software engineering**: building systems that are actually usable
-* 🌐 **Full-stack development**: understanding the full request-to-database lifecycle
-* ⚙️ **Backend engineering**: APIs, authentication, databases, uploads and scalability
-* 📊 **Data & AI**: turning raw data into usable intelligence
-* 🦀 **Systems programming**: exploring Rust and lower-level concepts
-* 🏙️ **Civic technology**: building software around real community problems
+[![Repo](https://img.shields.io/badge/View%20Repository-NagrikSetu-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/nagriksetu)
 
-> **Ship → Break → Understand → Improve**
+---
+
+### ☀️ [SIGNIX](https://github.com/saksham6541/SIGNIX): rooftop solar planning & estimation for India
+
+A Flask-based planning tool: locate a property, draw the roof and obstructions on a map, and get indicative generation, savings and payback, then export PDF reports.
+
+* 🗺️ **Map-based roof planning:** Leaflet roof editor with obstruction marking and geometry-aware sizing
+* ☀️ **Irradiance and generation:** NASA POWER and PVGIS providers with fallback behaviour
+* 💰 **Financial planning:** system cost, savings, payback and indicative PM Surya Ghar subsidy
+* 🏠🏢 **Residential and Commercial tracks:** separate calculation policies, validated server-side
+* 📄 **PDF reports:** a homeowner summary and a detailed technical report (WeasyPrint with ReportLab fallback)
+* 🌐 **Bilingual:** English and Hindi, including Devanagari fonts in the PDFs
+* 💾 **Saved estimates and scenario comparison**, plus a 3D rooftop visualization workflow
+* 🧪 **Regression-tested** across estimation, auth, calculation tracks, reports and rooftop geometry
+
+**Stack:** Python • Flask • Jinja2 • SQLAlchemy • Leaflet • pvlib • WeasyPrint • Docker
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saksham6541/SIGNIX/main/app/static/images/signix-logo-full.png" width="40%" alt="SIGNIX" />
+</p>
+
+[![Repo](https://img.shields.io/badge/View%20Repository-SIGNIX-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/SIGNIX)
+
+---
+
+## 🧩 More Projects
+
+| Project | What it is | Stack |
+| ------- | ---------- | ----- |
+| [**DataForge AI**](https://github.com/saksham6541/Code_cubicle) | AI-powered data intelligence platform (hackathon) | AI • Data |
+| **Commodity Derivatives Intelligence** | MCX gold futures analysis (Hack in Hills '26) | Data • Analytics |
+| [**Distributed File Upload**](https://github.com/saksham6541/distributed-file-upload) | Chunked, resumable uploads with verification | TypeScript • Express • React • MongoDB |
+| [**cjson-rs**](https://github.com/saksham6541/cjson-rs) | Rust port of the cJSON C library | Rust |
+
+---
+
+## 🛠️ Tech I've Shipped With
+
+<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,express,python,flask,prisma,sqlite,mongodb,docker,rust,git" />
+
+---
+
+## 🧠 DSA
+
+400+ LeetCode problems, with a focus on patterns and time/space complexity rather than the count.
 
 ---
 
 <div align="center">
 
-## 🎓 Education
-
-</div>
-
-**GL Bajaj Institute of Technology & Management**: B.Tech, Computer Science & Engineering
-
-**IIT Madras**: BS, Data Science and Applications (programming, DSA, databases, statistics, data science, computational thinking)
-
----
-
-<div align="center">
-
-# 🚀 What I'm Building
-
-</div>
-
-## 🏙️ NagrikSetu
-
-### AI-powered hyperlocal civic issue resolution platform
-
-> **What if reporting a civic problem didn't end with submitting a complaint?**
-
-NagrikSetu connects **citizens, municipal officers and field workers** to take an issue through its complete lifecycle:
-
-```text
-Report → AI Classification → Severity Assessment → Officer Assignment
-→ Field Worker → Proof of Work → Citizen Verification → Resolved
-```
-
-**Features:** image/video reporting • AI categorization • severity classification • GPS verification • community verification • field-worker assignment • completion evidence • officer dashboards • real-time status updates
-
-**Tech:** TypeScript • React • Node.js • Express • AI Integration • Google Cloud
-
-[![NagrikSetu](https://img.shields.io/badge/View%20Repository-NagrikSetu-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/nagriksetu)
-
----
-
-## 🤖 DataForge AI
-
-### AI-powered data intelligence platform
-
-Built for a hackathon (Problem Statement 01: AI-Powered Data Intelligence Platform).
-
-[![DataForge AI](https://img.shields.io/badge/View%20Repository-Code__cubicle-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/Code_cubicle)
-
----
-
-## 📈 Commodity Derivatives Intelligence
-
-Hack in Hills '26 project (Problem Statement 03) focused on **MCX gold futures** analysis and intelligence.
-
----
-
-## ☀️ Rooftop Solar Estimator
-
-Web app prototype that estimates rooftop solar potential and **PM Surya Ghar** subsidy.
-
-**Tech:** Flask • Jinja2 • Leaflet • pvlib • WeasyPrint
-
----
-
-## 📤 Distributed File Upload System
-
-### Learning how large file uploads actually work
-
-A backend project on **chunked, resumable and scalable uploads**: authentication, chunk verification, metadata management, distributed upload architecture and failure recovery.
-
-**Tech:** TypeScript • Express • React • Vite • MongoDB
-
-[![Distributed File Upload](https://img.shields.io/badge/View%20Repository-Distributed%20File%20Upload-00D4FF?style=for-the-badge\&logo=github)](https://github.com/saksham6541/distributed-file-upload)
-
----
-
-## 🦀 cjson-rs
-
-### A Rust port of cJSON
-
-A Rust reimplementation of the classic cJSON C library, exploring ownership and borrowing, memory safety, parsing, data structures and C → Rust translation. Built as part of my **Port Mortem 2026** work.
-
-[![cjson-rs](https://img.shields.io/badge/View%20Repository-cjson--rs-orange?style=for-the-badge\&logo=rust)](https://github.com/saksham6541/cjson-rs)
-
----
-
-## 🧠 DSA Practice
-
-### 400+ LeetCode Problems Solved
-
-I practice DSA systematically, focusing on pattern recognition and **time and space complexity** rather than the solved count.
-
-```text
-Arrays & Strings → Hashing → Two Pointers / Sliding Window → Binary Search
-→ Linked Lists → Stacks / Queues → Trees → Graphs → Greedy → Dynamic Programming
-```
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/skaushik_0987/)
-
----
-
-<div align="center">
-
-# 🛠️ Technical Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,rust" />
-
-**Primary:** Java • **Comfortable:** Python, C, C++, JavaScript, TypeScript • **Exploring:** Rust
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite" />
-
-### Tools & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=gcp,aws" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⚙️ Engineering Focus
-
-</div>
-
-| Area                       | Current Focus                                      |
-| -------------------------- | -------------------------------------------------- |
-| 🧠 **Algorithms**          | DSA, complexity analysis, problem-solving patterns |
-| 🌐 **Frontend**            | React, TypeScript, responsive interfaces           |
-| ⚙️ **Backend**             | Node.js, Express, Flask, REST APIs, authentication |
-| 🗄️ **Databases**          | PostgreSQL, MongoDB, SQLite, SQL                   |
-| 📤 **Distributed Uploads** | Chunking, resumability, verification               |
-| 📊 **Data & AI**           | Data intelligence platforms, practical AI features |
-| 🏗️ **System Design**      | Scalability, reliability, distributed architecture |
-| 🦀 **Systems**             | Rust, memory safety, low-level programming         |
-| 🏙️ **Civic Tech**         | Technology for community infrastructure            |
-
----
-
-<div align="center">
-
-# 📈 GitHub Analytics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham6541&bg_color=0d1117&color=00D4FF&line=FF6B6B&point=FFD93D&area=true&hide_border=true" width="95%"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saksham6541&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=00D4FF&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham6541&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=ffffff" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⭐ Featured Repositories
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=nagriksetu&theme=radical&hide_border=true&bg_color=0d1117" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=distributed-file-upload&theme=radical&hide_border=true&bg_color=0d1117" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=Code_cubicle&theme=radical&hide_border=true&bg_color=0d1117" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=saksham6541&repo=cjson-rs&theme=radical&hide_border=true&bg_color=0d1117" />
-
-</div>
-
----
-
-<div align="center">
-
-# 📚 Learning Roadmap
-
-</div>
-
-### ✅ Done
-
-* [x] Java, Python, C / C++
-* [x] Git & GitHub
-* [x] HTML / CSS / JavaScript
-* [x] Core DSA
-* [x] REST APIs & authentication
-* [x] SQL fundamentals, MongoDB
-* [x] Full-stack applications
-* [x] Hackathon builds
-
-### 🔨 In Progress
-
-* [ ] Advanced PostgreSQL
-* [ ] Docker & CI/CD
-* [ ] Advanced backend architecture
-* [ ] System design & distributed systems (queues, caching, load balancing, fault tolerance)
-* [ ] Deeper Rust
-
----
-
-<div align="center">
-
-# 🏙️ Why Civic Tech?
-
-</div>
-
-I'm drawn to software that solves problems **outside the developer ecosystem**. Potholes, broken streetlights, water problems and unresolved municipal complaints aren't glamorous, but they affect real people every day. That's why NagrikSetu matters to me.
-
----
-
-<div align="center">
-
-# 🔗 Let's Connect
-
-**GitHub:** [github.com/saksham6541](https://github.com/saksham6541)
-
-**LinkedIn:** [linkedin.com/in/saksham-kaushik-942706369](https://www.linkedin.com/in/saksham-kaushik-942706369/)
-
-**LeetCode:** [leetcode.com/u/skaushik_0987](https://leetcode.com/u/skaushik_0987/)
-
-**Email:** [kaushiksaksham27@gmail.com](mailto:kaushiksaksham27@gmail.com)
-
-<br>
-
-> *I'm still learning. Some repositories are polished, some are experiments. Every project represents something I wanted to understand.*
-
-**🌱 Building. Breaking. Learning. Shipping.**
+*Currently learning: PostgreSQL in depth, Docker & CI/CD, distributed systems.*
 
 <img src="https://komarev.com/ghpvc/?username=saksham6541&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
 
